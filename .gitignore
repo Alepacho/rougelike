@@ -1,0 +1,10 @@
+.DS_Store
+._*
+.hidden
+.cache
+.vscode
+compile_commands.json
+lib/*
+rouge
+rouge.*
+*.dll
